@@ -12,3 +12,4 @@
 -better defined class name for all 3 benefit's div's
 -added unique id's to all 3 content div's to link to nav a href's
 -added comments to identify sections of css selectors
+-added alt messages to 'content' images & "" for the 'benefits' images as they are symbols nothing important

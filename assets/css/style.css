@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/*Header Section Start*/
 
 header {
     padding: 20px;
@@ -41,6 +42,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*Header Section End*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,6 +52,7 @@ a {
 p {
     font-size: 16px;
 }
+/*Hero Section Start*/
 
 .hero {
     height: 800px;
@@ -83,6 +87,10 @@ p {
     font-size: 36px;
 }
 
+/*Hero Section End*/
+
+
+/*Universal Tools*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,6 +100,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*Benefits Start*/
 
 .benefits {
     margin-right: 20px;
@@ -120,6 +129,9 @@ p {
     max-width: 150px;
 }
 
+/*Benefits End*/
+
+/*Footer Start*/
 footer {
     padding: 30px;
     clear: both;
@@ -130,3 +142,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/*Footer End*/

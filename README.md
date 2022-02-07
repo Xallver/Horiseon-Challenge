@@ -17,7 +17,7 @@ Key Tools they offer are as follows:
 * [Updates](#Updates)
 
 ## Installation
-* https://xallver.github.io/Horiseon-Challenge/  
+* https://github.com/Xallver/Stanley-Horiseon-Challenge
 * clone repo from github <a href="https://github.com/Xallver/Horiseon-Challenge">Github Repo</a>
 
 ## Credits
